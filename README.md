@@ -1,2 +1,3 @@
 RiskRoller
 ==========
+For those of us who love to play risk but don't have 20 hours to dedicate to playing one game. This script is handy to have around while playing a game of Risk. When there is more than 10 attackers or defenders, each attack can take way to long and be very tedious rolling all those dice. RiskRoller will roll the dice for you and let you know who has one and the progress along the way. Simply follow the instructions!
